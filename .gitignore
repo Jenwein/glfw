@@ -102,3 +102,8 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+
+## Razel
+bin/
+bin-int/
+
